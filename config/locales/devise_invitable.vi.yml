@@ -4,10 +4,10 @@ vi:
       invited: 'Bạn có một lời mời, xin vui lòng chấp thuận để tạo một tài khoản.'
     invitations:
       send_instructions: 'Lời mời đã được gửi tới địa chỉ %{email}.'
-      failed_send: 'Một lỗi đã xuất hiện, đại chỉ %{email} không thể được mời.'
+      failed_send: 'Một lỗi đã xuất hiện, địa chỉ %{email} không thể được mời.'
       invitation_token_invalid: 'Mã khóa được cung cấp không giá trị!'
-      updated: 'Cài đặt mật khẩu đã thành công, bạn có thể đăng nhập.'
-      updated_not_active: 'Mật khẩu của bạn đã cài đặt thành công.'
+      updated: 'Cài đặt mật khẩu thành công, bạn có thể đăng nhập.'
+      updated_not_active: 'Mật khẩu của bạn cài đặt thành công.'
       no_invitations_remaining: 'Không còn lời mời nào nữa'
       invitation_removed: 'Lời mời đã được gỡ bỏ.'
       new:
